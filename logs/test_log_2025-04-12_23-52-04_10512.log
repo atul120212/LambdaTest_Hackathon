@@ -1,0 +1,4 @@
+2025-04-12 23:52:04,028 [INFO] Logging started in process 10512
+2025-04-12 23:52:13,679 [INFO] Error message: Epic sadface: Username and password do not match any user in this service
+2025-04-12 23:52:23,510 [INFO] Attempting HTML injection login
+2025-04-12 23:52:29,782 [INFO] Attempting JavaScript URI injection login
